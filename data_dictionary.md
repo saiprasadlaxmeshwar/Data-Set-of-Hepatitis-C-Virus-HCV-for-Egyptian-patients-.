@@ -4,7 +4,7 @@
 **Attribute Information of the data set**
 1.  Age 
 2.  Gender 
-3.  BMI (Body Mass Index)
+3.  BMI(Body Mass Index)
 4.  Fever 
 5.  Nausea/Vomting 
 6.  Headache 
